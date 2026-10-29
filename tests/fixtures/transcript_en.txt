@@ -1,0 +1,16 @@
+Hello everyone, welcome to the productivity tools course.
+Today we'll talk about building your own automation workflows with WorkBuddy.
+Many people are stuck in repetitive work every day.
+For example, compiling weekly reports, summarizing data, and replying to emails.
+These tasks share one thing in common.
+The rules are clear, but they take a lot of time.
+The Skill system of WorkBuddy turns these rules into reusable capabilities.
+You only need to describe when it triggers, what the input is, and where the output goes.
+Leave the rest of the execution to the agent.
+For example, a sales team's weekly report used to take one person two hours.
+Now a Skill summarizes it automatically in five minutes.
+For cross-border teams, meeting recordings can automatically generate bilingual subtitles.
+Overseas teammates can follow along at the same time.
+For this lesson, you need to prepare three things.
+WorkBuddy installed, an authorized folder, and a description of the process you want to automate.
+Ready? Let's begin.
